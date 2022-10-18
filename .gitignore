@@ -1,0 +1,12 @@
+#Environement Variables:
+*.env
+.env
+
+#Logging:
+*.log
+
+#Testing:
+*.testing.py
+testing.py
+
+#Project Specific:
